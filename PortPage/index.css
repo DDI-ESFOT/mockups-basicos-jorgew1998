@@ -1,0 +1,93 @@
+.First {
+    margin: 0 auto;
+    max-width: 60rem;
+    width: 100%;
+}
+
+.Second {
+    margin: 0 auto;
+    max-width: 60rem;
+    width: 100%;
+}
+
+.Third {
+    margin: 0 auto;
+    max-width: 60rem;
+    width: 100%;
+}
+
+.content {
+    display: flex;
+    margin: 2em 0;
+    width: 100%;
+}
+
+.appify, .bokeh, .flower {
+    width: 33.3333%;
+    padding-left: 3px;
+}
+
+.header {
+    padding-bottom: 25px;
+    border-bottom: 6px solid #bcbbbb;
+}
+
+.Second {
+    padding-top:25px;
+}
+
+h1, h2 {
+    text-align: right;
+    margin: 0;
+    color: #747704;
+  }
+
+h1 {
+    font-size: 3.5em;
+    font-weight: 100;
+    margin: 0;
+}
+  
+h2 {
+    font-size: 1.25em;
+    font-weight: 400;
+}
+
+img {
+    max-width: 100%;
+}
+
+h3 {
+    font-size: 2.5em;
+    color: #bcbbbb;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+
+.imagesPos {
+    margin-top: -1rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.imagesPos h4 {
+    font-size: 2.5em;
+    font-weight: 400;
+    color: #747704;
+    margin: 0;
+    padding: 0.5rem;
+    display: flex;
+    justify-content: center;
+}
+
+.imagesPos a {
+    text-decoration: none;
+    color: #666756;
+    font-weight: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+
